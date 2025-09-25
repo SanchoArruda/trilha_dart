@@ -10,7 +10,7 @@ Crie variáveis usando os tipos:
 Mostre todas com `print()`. */
 
 void main(){
-  int idade = 21;
+  int idade = 22;
   double altura = 1.84;
   String nome = "Sancho";
   bool estudante = true;
