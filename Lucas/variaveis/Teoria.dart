@@ -31,7 +31,6 @@ if (year <= 2003){
 
 
 for (final a in list){
-  
   print(a);
 }
 
